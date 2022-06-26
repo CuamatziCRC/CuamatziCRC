@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cristian Reyes</h1>
+<h1 align="center">Hi , I'm Cristian Reyes</h1>
 <h3 align="center">Ingeniero en ciencias de la computación</h3>
 
-- 🌱 I’m currently learning **Python, Visual Basic, C, JavaScript**
+-  I’m currently learning **Python, Visual Basic, C, JavaScript**
 
-- 💬 Ask me about **Python and JavaScript**
-# 💫About Me :
+-  Ask me about **Python and JavaScript**
+# About Me :
 
 I love topics about technology and video games.
 I enjoy wide open spaces and cycling.
