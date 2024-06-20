@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Cristian Reyes</h1>
-<h3 align="center">Ingeniero en ciencias de la computación</h3>
+<h3 align="center">Engineer in computer science</h3>
 
 -  I’m currently learning **Python, Visual Basic, C, JavaScript**
 
