@@ -1,13 +1,15 @@
-<h2 data-importer="text" align="center">Hi, I'm Cristian Reyes.<br>I'm a computer engineer.<br>I'm currently continuing to learn TypeScript, Python, JavaScript, and Playwright.<br><br>About me:<br>I love anything related to technology and video games. I enjoy the great outdoors and music.</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cristian Reyes.
+========================================================================================================================================
 
-###
+QA Tester Manual y automación
+-----------------------------
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CuamatziCRC/CuamatziCRC/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/CuamatziCRC/CuamatziCRC/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+About me:
 
-###
+I love anything related to technology and video games. I enjoy the great outdoors and music.
+
+* 🌍  I'm based in México
+* 🧠  I'm currently learning Playwright
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -45,18 +47,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
 
-###
+### Socials
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/crcuama" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left"> <a href="https://www.github.com/CuamatziCRC" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/crcuama" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-###
 
-<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/CuamatziCRC/CuamatziCRC/snake-output/snake.svg" alt="Snake animation" />
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/CuamatziCRC"><img src="https://github-readme-stats.vercel.app/api?username=CuamatziCRC&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CuamatziCRC's GitHub stats" /></a>
+
+<a href="https://github.com/CuamatziCRC" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuamatziCRC&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
